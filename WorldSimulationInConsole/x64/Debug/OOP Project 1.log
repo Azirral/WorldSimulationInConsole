@@ -1,0 +1,25 @@
+﻿  Animal.cpp
+  Antelope.cpp
+  Belladonna.cpp
+  Controller.cpp
+C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\Controller.cpp(17,9): warning C4101: 'world': unreferenced local variable
+C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\Controller.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fox.cpp
+  Grass.cpp
+  Guarana.cpp
+  Human.cpp
+  OOP Project 1.cpp
+  Organism.cpp
+  Plant.cpp
+  Point.cpp
+  Sheep.cpp
+  SosnowskysHogweed.cpp
+  SowThistle.cpp
+  Turtle.cpp
+  Wolf.cpp
+  World.cpp
+C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\World.cpp(215,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\World.cpp(295): warning C4715: 'World::randomizeOrganisms': not all control paths return a value
+C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\World.cpp(280): warning C4715: 'World::chooseOrganism': not all control paths return a value
+  OOP Project 1.vcxproj -> C:\Users\adams\Desktop\OOP Project 1 Adam Sobczuk 188656\OOP Project 1\x64\Debug\OOP Project 1.exe
